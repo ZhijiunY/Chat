@@ -1,0 +1,25 @@
+CHAT
+===
+tree
+---
+client
+    main
+server
+    main
+    controller
+    model
+    routes
+    utils
+    middleware
+    helpers
+templare
+    chat.html
+    inde.html
+    room.html
+
+    index.html
+        login
+        register
+    chat.html
+        textRoom
+        onlinePeopleNumber
